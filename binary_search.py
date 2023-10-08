@@ -1,5 +1,5 @@
 # For each of the K numbers, it is required to print “YES” in a separate line
-# if this number is found in the first array, and “NO” otherwise.
+# if this number is found in the first array, and “NO” otherwise. O(m * log n)
 
 import random
 from typing import Optional
